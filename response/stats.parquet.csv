@@ -1,0 +1,446 @@
+,_c0,adversaire,avg_score_france,avg_score_adversaire,count_nb_match,max_france_penality,penalityfrance_moins_penalityadversaire,match,competition,adversaire,score_france,score_adversaire,penalty_france,penalty_adversaire,date,isDomicile
+0,15,NA,,,3,1949,," Croates et Slovènes""",1,NA,NA,1926-06-14,1926,win,5,False
+1,15,NA,,,3,1949,," Croates et Slovènes""",3,NA,NA,1929-05-19,1929,loss,5,False
+2,15,NA,,,3,1949,,Yougoslavie,3,NA,NA,1949-12-11,1949,loss,9,False
+3,16,Grèce,2.25,0.75,4,0,0.0,France - Grèce,Match amical,Grèce,5,1,0,0,1980-02-27,True
+4,62,Pays-Bas,1.4,0.8666666666666667,15,5,1.0,France - Pays-Bas,Match amical,Pays-Bas,0,0,0,0,1980-03-26,True
+5,37,URSS- France,0.0,1.0,1,0,0.0,URSS- France,Match amical,URSS- France,0,1,0,0,1980-05-23,False
+6,19,Chypre,3.375,0.25,8,0,0.0,Chypre - France,Qualifications pour la Coupe du monde 1982,Chypre,7,0,0,0,1980-10-11,True
+7,59,Irlande,1.2222222222222223,0.5555555555555556,9,0,0.0,France - Irlande,Qualifications pour la Coupe du monde 1982,Irlande,2,0,0,0,1980-10-28,True
+8,54,RFA,1.3333333333333333,2.0,6,4,-1.0,RFA - France,Match amical,RFA,1,4,0,0,1980-11-19,True
+9,17,Espagne,1.1111111111111112,1.0555555555555556,18,0,0.0,Espagne - France,Match amical,Espagne,0,1,0,0,1981-02-18,True
+10,62,Pays-Bas,1.4,0.8666666666666667,15,5,1.0,Pays-Bas - France,Qualifications pour la Coupe du monde 1982,Pays-Bas,0,1,0,0,1981-03-25,False
+11,68,Belgique,1.9230769230769231,1.2307692307692308,13,0,0.0,France - Belgique,Qualifications pour la Coupe du monde 1982,Belgique,3,2,0,0,1981-04-29,True
+12,39,Brésil,1.0,1.2727272727272727,11,4,1.0,France - Brésil,Match amical,Brésil,1,3,0,0,1981-05-15,True
+13,68,Belgique,1.9230769230769231,1.2307692307692308,13,0,0.0,Belgique - France,Qualifications pour la Coupe du monde 1982,Belgique,0,2,0,0,1981-09-09,True
+14,59,Irlande,1.2222222222222223,0.5555555555555556,9,0,0.0,Irlande - France,Qualifications pour la Coupe du monde 1982,Irlande,2,3,0,0,1981-10-14,True
+15,62,Pays-Bas,1.4,0.8666666666666667,15,5,1.0,France - Pays-Bas,Qualifications pour la Coupe du monde 1982,Pays-Bas,2,0,0,0,1981-11-18,True
+16,19,Chypre,3.375,0.25,8,0,0.0,France - Chypre,Qualifications pour la Coupe du monde 1982,Chypre,4,0,0,0,1981-12-05,True
+17,41,Italie,1.75,0.8333333333333334,12,3,-2.0,France - Italie,Match amical,Italie,2,0,0,0,1982-02-23,True
+18,23,Irlande du Nord,1.8,0.2,5,0,0.0,France - Irlande du Nord,Match amical,Irlande du Nord,4,0,0,0,1982-03-24,True
+19,61,Pérou,0.5,0.5,2,0,0.0,France - Pérou,Match amical,Pérou,0,1,0,0,1982-04-28,True
+20,11,Bulgarie,1.25,1.0,8,0,0.0,France - Bulgarie,Match amical,Bulgarie,0,0,0,0,1982-05-15,True
+21,72,Pays de Galles,1.0,0.5,2,0,0.0,France - Pays de Galles,Match amical,Pays de Galles,0,1,0,0,1982-06-02,True
+22,5,Angleterre,1.1538461538461537,1.0769230769230769,13,0,0.0,Angleterre - France,Coupe du monde 1982 (Groupe 4),Angleterre,1,3,0,0,1982-06-16,True
+23,84,Koweït,2.5,0.5,2,0,0.0,France - Koweït,Coupe du monde 1982 (Groupe 4),Koweït,4,1,0,0,1982-06-21,True
+24,38,Tchécoslovaquie,1.5,1.0,4,0,0.0,France - Tchécoslovaquie,Coupe du monde 1982 (Groupe 4),Tchécoslovaquie,1,1,0,0,1982-06-24,True
+25,6,Autriche,1.5,0.75,8,0,0.0,France - Autriche,Coupe du monde 1982 (Groupe 4 - Second tour),Autriche,1,0,0,0,1982-06-28,True
+26,23,Irlande du Nord,1.8,0.2,5,0,0.0,France - Irlande du Nord,Coupe du monde 1982 (Groupe 4 - Second tour),Irlande du Nord,4,1,0,0,1982-07-04,True
+27,54,RFA,1.3333333333333333,2.0,6,4,-1.0,RFA - France [6],Coupe du monde 1982 (Demi-finale),RFA,3,3,4,5,1982-07-08,True
+28,26,Pologne,1.1111111111111112,1.0,9,0,0.0,Pologne - France,Coupe du monde 1982 (Petite finale),Pologne,2,3,0,0,1982-07-10,True
+29,26,Pologne,1.1111111111111112,1.0,9,0,0.0,France - Pologne,Match amical,Pologne,0,4,0,0,1982-08-31,True
+30,7,Hongrie,2.25,0.5,4,0,0.0,France - Hongrie,Match amical,Hongrie,1,0,0,0,1982-10-06,True
+31,62,Pays-Bas,1.4,0.8666666666666667,15,5,1.0,Pays-Bas - France,Match amical,Pays-Bas,2,1,0,0,1982-11-10,False
+32,79,Portugal,2.1,0.7,10,0,0.0,Portugal - France,Match amical,Portugal,3,0,0,0,1983-02-16,True
+33,53,URSS,0.75,1.25,4,0,0.0,France - URSS,Match amical,URSS,1,1,0,0,1983-03-23,True
+34,57,Yougoslavie,1.5714285714285714,0.7142857142857143,7,0,0.0,France - Yougoslavie,Match amical,Yougoslavie,4,0,0,0,1983-04-23,True
+35,68,Belgique,1.9230769230769231,1.2307692307692308,13,0,0.0,Belgique - France[29],Match amical,Belgique,1,1,0,0,1983-05-31,True
+36,74,Danemark,1.25,0.8333333333333334,12,0,0.0,Danemark - France,Match amical,Danemark,1,3,0,0,1983-09-07,True
+37,17,Espagne,1.1111111111111112,1.0555555555555556,18,0,0.0,France - Espagne,Match amical,Espagne,1,1,0,0,1983-10-05,True
+38,57,Yougoslavie,1.5714285714285714,0.7142857142857143,7,0,0.0,Yougoslavie - France,Match amical,Yougoslavie,0,0,0,0,1983-11-12,True
+39,5,Angleterre,1.1538461538461537,1.0769230769230769,13,0,0.0,France - Angleterre,Match amical,Angleterre,2,0,0,0,1984-02-29,True
+40,6,Autriche,1.5,0.75,8,0,0.0,France - Autriche,Match amical,Autriche,1,0,0,0,1984-03-28,True
+41,54,RFA,1.3333333333333333,2.0,6,4,-1.0,France - RFA,Match amical,RFA,1,0,0,0,1984-04-18,True
+42,30,Écosse,1.8888888888888888,0.5555555555555556,9,0,0.0,France - Écosse,Match amical,Écosse,2,0,0,0,1984-06-01,True
+43,74,Danemark,1.25,0.8333333333333334,12,0,0.0,France - Danemark,Euro 1984 (Groupe A),Danemark,1,0,0,0,1984-06-12,True
+44,68,Belgique,1.9230769230769231,1.2307692307692308,13,0,0.0,France - Belgique,Euro 1984 (Groupe A),Belgique,5,0,0,0,1984-06-16,True
+45,57,Yougoslavie,1.5714285714285714,0.7142857142857143,7,0,0.0,France - Yougoslavie,Euro 1984 (Groupe A),Yougoslavie,3,2,0,0,1984-06-19,True
+46,79,Portugal,2.1,0.7,10,0,0.0,France - Portugal,Euro 1984 (Demi-finale),Portugal,3,2,0,0,1984-06-23,True
+47,17,Espagne,1.1111111111111112,1.0555555555555556,18,0,0.0,France - Espagne,Euro 1984 (Finale),Espagne,2,0,0,0,1984-06-27,True
+48,73,Luxembourg,2.8333333333333335,0.16666666666666666,6,0,0.0,Luxembourg - France,Qualifications pour la Coupe du monde 1986,Luxembourg,4,0,0,0,1984-10-13,True
+49,11,Bulgarie,1.25,1.0,8,0,0.0,France - Bulgarie,Qualifications pour la Coupe du monde 1986,Bulgarie,1,0,0,0,1984-11-21,True
+50,3,RDA,1.0,0.6,5,0,0.0,France - RDA,Qualifications pour la Coupe du monde 1986,RDA,2,0,0,0,1984-12-08,True
+51,57,Yougoslavie,1.5714285714285714,0.7142857142857143,7,0,0.0,Yougoslavie - France,Qualifications pour la Coupe du monde 1986,Yougoslavie,0,0,0,0,1985-04-03,True
+52,11,Bulgarie,1.25,1.0,8,0,0.0,Bulgarie - France,Qualifications pour la Coupe du monde 1986,Bulgarie,0,2,0,0,1985-05-02,True
+53,48,Uruguay,0.3333333333333333,0.16666666666666666,6,0,0.0,France - Uruguay,Coupe intercontinentale 1985,Uruguay,2,0,0,0,1985-08-21,True
+54,3,RDA,1.0,0.6,5,0,0.0,RDA - France,Qualifications pour la Coupe du monde 1986,RDA,0,2,0,0,1985-09-11,True
+55,73,Luxembourg,2.8333333333333335,0.16666666666666666,6,0,0.0,France - Luxembourg,Qualifications pour la Coupe du monde 1986,Luxembourg,6,0,0,0,1985-10-30,True
+56,57,Yougoslavie,1.5714285714285714,0.7142857142857143,7,0,0.0,France - Yougoslavie,Qualifications pour la Coupe du monde 1986,Yougoslavie,2,0,0,0,1985-11-16,True
+57,23,Irlande du Nord,1.8,0.2,5,0,0.0,France - Irlande du Nord,Match amical,Irlande du Nord,0,0,0,0,1986-02-26,True
+58,29,Argentine,0.6666666666666666,1.0,3,0,0.0,France - Argentine,Match amical,Argentine,2,0,0,0,1986-03-26,True
+59,65,Canada,1.0,0.0,1,0,0.0,France - Canada,Coupe du monde 1986 (Groupe C),Canada,1,0,0,0,1986-06-01,True
+60,53,URSS,0.75,1.25,4,0,0.0,France - URSS,Coupe du monde 1986 (Groupe C),URSS,1,1,0,0,1986-06-05,True
+61,7,Hongrie,2.25,0.5,4,0,0.0,France - Hongrie,Coupe du monde 1986 (Groupe C),Hongrie,3,0,0,0,1986-06-09,True
+62,41,Italie,1.75,0.8333333333333334,12,3,-2.0,France - Italie,Coupe du monde 1986 (Huitième de finale),Italie,2,0,0,0,1986-06-17,True
+63,39,Brésil,1.0,1.2727272727272727,11,4,1.0,Brésil - France,Coupe du monde 1986 (Quart de finale),Brésil,1,1,4,3,1986-06-21,True
+64,54,RFA,1.3333333333333333,2.0,6,4,-1.0,France - RFA,Coupe du monde 1986 (Demi-finale),RFA,0,2,0,0,1986-06-25,True
+65,68,Belgique,1.9230769230769231,1.2307692307692308,13,0,0.0,France - Belgique,Coupe du monde 1986 (Petite finale),Belgique,4,2,0,0,1986-06-28,True
+66,24,Suisse,1.4,0.9,10,0,0.0,Suisse - France,Match amical,Suisse,0,2,0,0,1986-08-19,True
+67,8,Islande,2.375,1.125,8,0,0.0,Islande - France,Qualifications pour l'Euro 1988,Islande,0,0,0,0,1986-09-10,True
+68,53,URSS,0.75,1.25,4,0,0.0,France - URSS,Qualifications pour l'Euro 1988,URSS,0,2,0,0,1986-10-11,True
+69,3,RDA,1.0,0.6,5,0,0.0,RDA - France,Qualifications pour l'Euro 1988,RDA,0,0,0,0,1986-11-19,True
+70,8,Islande,2.375,1.125,8,0,0.0,France - Islande,Qualifications pour l'Euro 1988,Islande,2,0,0,0,1987-04-29,True
+71,81,Norvège,1.375,1.125,8,0,0.0,Norvège - France,Qualifications pour l'Euro 1988,Norvège,0,2,0,0,1987-06-16,True
+72,54,RFA,1.3333333333333333,2.0,6,4,-1.0,RFA - France,Match amical,RFA,1,2,0,0,1987-08-12,True
+73,53,URSS,0.75,1.25,4,0,0.0,URSS - France,Qualifications pour l'Euro 1988,URSS,1,1,0,0,1987-09-09,True
+74,81,Norvège,1.375,1.125,8,0,0.0,France - Norvège,Qualifications pour l'Euro 1988,Norvège,1,1,0,0,1987-10-14,True
+75,3,RDA,1.0,0.6,5,0,0.0,France - RDA,Qualifications pour l'Euro 1988,RDA,0,1,0,0,1987-11-18,True
+76,42,Israël,1.6666666666666667,0.6666666666666666,9,0,0.0,Israël - France,Match amical,Israël,1,1,0,0,1988-01-27,True
+77,24,Suisse,1.4,0.9,10,0,0.0,France - Suisse,Tournoi de France 1988 (amical),Suisse,2,1,0,0,1988-02-02,True
+78,58,Maroc,2.4,1.2,5,5,-1.0,France - Maroc,Tournoi de France 1988 (amical),Maroc,2,1,0,0,1988-02-05,True
+79,17,Espagne,1.1111111111111112,1.0555555555555556,18,0,0.0,France - Espagne,Match amical,Espagne,2,1,0,0,1988-03-23,True
+80,23,Irlande du Nord,1.8,0.2,5,0,0.0,Irlande du Nord - France,Match amical,Irlande du Nord,0,0,0,0,1988-04-27,False
+81,38,Tchécoslovaquie,1.5,1.0,4,0,0.0,France - Tchécoslovaquie,Match amical,Tchécoslovaquie,1,1,0,0,1988-08-24,True
+82,81,Norvège,1.375,1.125,8,0,0.0,France - Norvège,Qualifications pour la Coupe du monde 1990,Norvège,1,0,0,0,1988-09-28,True
+83,19,Chypre,3.375,0.25,8,0,0.0,Chypre - France,Qualifications pour la Coupe du monde 1990,Chypre,1,1,0,0,1988-10-22,True
+84,57,Yougoslavie,1.5714285714285714,0.7142857142857143,7,0,0.0,Yougoslavie - France,Qualifications pour la Coupe du monde 1990,Yougoslavie,2,3,0,0,1988-11-19,True
+85,59,Irlande,1.2222222222222223,0.5555555555555556,9,0,0.0,Irlande - France,Match amical,Irlande,0,0,0,0,1989-02-07,True
+86,30,Écosse,1.8888888888888888,0.5555555555555556,9,0,0.0,Écosse - France,Qualifications pour la Coupe du monde 1990,Écosse,0,2,0,0,1989-03-08,True
+87,57,Yougoslavie,1.5714285714285714,0.7142857142857143,7,0,0.0,France - Yougoslavie,Qualifications pour la Coupe du monde 1990,Yougoslavie,0,0,0,0,1989-04-29,True
+88,60,Suède,1.4166666666666667,1.0833333333333333,12,0,0.0,Suède - France,Match amical,Suède,4,2,0,0,1989-08-16,True
+89,81,Norvège,1.375,1.125,8,0,0.0,Norvège - France,Qualifications pour la Coupe du monde 1990,Norvège,1,1,0,0,1989-09-05,True
+90,30,Écosse,1.8888888888888888,0.5555555555555556,9,0,0.0,France - Écosse,Qualifications pour la Coupe du monde 1990,Écosse,3,0,0,0,1989-10-11,True
+91,19,Chypre,3.375,0.25,8,0,0.0,France - Chypre,Qualifications pour la Coupe du monde 1990,Chypre,2,0,0,0,1989-11-18,True
+92,84,Koweït,2.5,0.5,2,0,0.0,Koweït - France,Tournoi du Koweït 1990 (amical),Koweït,1,0,0,0,1990-01-21,True
+93,3,RDA,1.0,0.6,5,0,0.0,France - RDA,Tournoi du Koweït 1990 (amical),RDA,3,0,0,0,1990-01-24,True
+94,54,RFA,1.3333333333333333,2.0,6,4,-1.0,France - RFA,Match amical,RFA,2,1,0,0,1990-02-28,True
+95,7,Hongrie,2.25,0.5,4,0,0.0,Hongrie - France,Match amical,Hongrie,3,1,0,0,1990-03-28,True
+96,26,Pologne,1.1111111111111112,1.0,9,0,0.0,France - Pologne,Match amical,Pologne,0,0,0,0,1990-08-15,True
+97,8,Islande,2.375,1.125,8,0,0.0,Islande - France,Qualifications pour l'Euro 1992,Islande,2,1,0,0,1990-09-05,True
+98,38,Tchécoslovaquie,1.5,1.0,4,0,0.0,France - Tchécoslovaquie,Qualifications pour l'Euro 1992,Tchécoslovaquie,2,1,0,0,1990-10-13,True
+99,21,Albanie,2.0,0.42857142857142855,7,0,0.0,Albanie - France,Qualifications pour l'Euro 1992,Albanie,1,0,0,0,1990-11-17,True
+100,17,Espagne,1.1111111111111112,1.0555555555555556,18,0,0.0,France - Espagne,Qualifications pour l'Euro 1992,Espagne,3,1,0,0,1991-02-20,True
+101,21,Albanie,2.0,0.42857142857142855,7,0,0.0,France - Albanie,Qualifications pour l'Euro 1992,Albanie,5,0,0,0,1991-03-30,True
+102,26,Pologne,1.1111111111111112,1.0,9,0,0.0,Pologne - France,Match amical,Pologne,5,1,0,0,1991-08-14,True
+103,38,Tchécoslovaquie,1.5,1.0,4,0,0.0,Tchécoslovaquie - France,Qualifications pour l'Euro 1992,Tchécoslovaquie,2,1,0,0,1991-09-04,True
+104,17,Espagne,1.1111111111111112,1.0555555555555556,18,0,0.0,Espagne - France,Qualifications pour l'Euro 1992,Espagne,2,1,0,0,1991-10-12,True
+105,8,Islande,2.375,1.125,8,0,0.0,France - Islande,Qualifications pour l'Euro 1992,Islande,3,1,0,0,1991-11-20,True
+106,5,Angleterre,1.1538461538461537,1.0769230769230769,13,0,0.0,Angleterre - France,Match amical,Angleterre,0,2,0,0,1992-02-19,True
+107,68,Belgique,1.9230769230769231,1.2307692307692308,13,0,0.0,France - Belgique,Match amical,Belgique,3,3,0,0,1992-03-25,True
+108,24,Suisse,1.4,0.9,10,0,0.0,Suisse - France,Match amical,Suisse,1,2,0,0,1992-05-27,True
+109,62,Pays-Bas,1.4,0.8666666666666667,15,5,1.0,France - Pays-Bas,Match amical,Pays-Bas,1,1,0,0,1992-06-05,True
+110,60,Suède,1.4166666666666667,1.0833333333333333,12,0,0.0,Suède - France,Euro 1992 (Groupe A),Suède,1,1,0,0,1992-06-10,True
+111,5,Angleterre,1.1538461538461537,1.0769230769230769,13,0,0.0,Angleterre - France,Euro 1992 (Groupe A),Angleterre,0,0,0,0,1992-06-14,True
+112,74,Danemark,1.25,0.8333333333333334,12,0,0.0,Danemark - France,Euro 1992 (Groupe A),Danemark,1,2,0,0,1992-06-17,True
+113,39,Brésil,1.0,1.2727272727272727,11,4,1.0,France - Brésil,Match amical,Brésil,0,2,0,0,1992-08-26,True
+114,11,Bulgarie,1.25,1.0,8,0,0.0,Bulgarie - France,Qualifications pour la Coupe du monde 1994,Bulgarie,0,2,0,0,1992-09-09,True
+115,6,Autriche,1.5,0.75,8,0,0.0,France - Autriche,Qualifications pour la Coupe du monde 1994,Autriche,2,0,0,0,1992-10-14,True
+116,10,Finlande,1.8333333333333333,0.16666666666666666,6,0,0.0,France - Finlande,Qualifications pour la Coupe du monde 1994,Finlande,2,1,0,0,1992-11-14,True
+117,42,Israël,1.6666666666666667,0.6666666666666666,9,0,0.0,Israël - France,Qualifications pour la Coupe du monde 1994,Israël,4,0,0,0,1993-02-17,True
+118,6,Autriche,1.5,0.75,8,0,0.0,Autriche - France,Qualifications pour la Coupe du monde 1994,Autriche,1,0,0,0,1993-03-27,True
+119,60,Suède,1.4166666666666667,1.0833333333333333,12,0,0.0,France - Suède,Qualifications pour la Coupe du monde 1994,Suède,2,1,0,0,1993-04-28,True
+120,20,Colombie,1.25,1.5,4,0,0.0,France - Colombie,Match amical (Inauguration du Stade de Dillon),Colombie,1,3,0,0,1993-06-16,True
+121,12,Russie,2.142857142857143,1.4285714285714286,7,0,0.0,France - Russie,Match amical,Russie,3,1,0,0,1993-07-28,True
+122,60,Suède,1.4166666666666667,1.0833333333333333,12,0,0.0,Suède - France,Qualifications pour la Coupe du monde 1994,Suède,1,1,0,0,1993-08-22,True
+123,10,Finlande,1.8333333333333333,0.16666666666666666,6,0,0.0,Finlande - France,Qualifications pour la Coupe du monde 1994,Finlande,2,0,0,0,1993-09-08,True
+124,42,Israël,1.6666666666666667,0.6666666666666666,9,0,0.0,France - Israël,Qualifications pour la Coupe du monde 1994,Israël,2,3,0,0,1993-10-13,True
+125,11,Bulgarie,1.25,1.0,8,0,0.0,France - Bulgarie,Qualifications pour la Coupe du monde 1994,Bulgarie,1,2,0,0,1993-11-17,True
+126,41,Italie,1.75,0.8333333333333334,12,3,-2.0,Italie - France,Match amical,Italie,1,0,0,0,1994-02-16,True
+127,46,Chili,1.6666666666666667,1.3333333333333333,3,0,0.0,France - Chili,Match amical,Chili,3,1,0,0,1994-03-22,True
+128,45,Australie,2.5,0.5,4,0,0.0,France - Australie,Coupe Kirin 1994 (Amical),Australie,1,0,0,0,1994-05-26,True
+129,50,Japon,2.3333333333333335,0.8333333333333334,6,4,2.0,Japon - France,Coupe Kirin 1994 (Amical),Japon,4,1,0,0,1994-05-29,True
+130,85,Rép. tchèque,1.0,1.25,4,5,-1.0,France - Rép. tchèque,Match amical,Rép. tchèque,2,2,0,0,1994-08-17,True
+131,52,Slovaquie,1.5,0.5,4,0,0.0,Slovaquie - France,Qualifications pour l'Euro 1996,Slovaquie,0,0,0,0,1994-09-07,True
+132,14,Roumanie,1.3,0.6,10,0,0.0,France - Roumanie,Qualifications pour l'Euro 1996,Roumanie,0,0,0,0,1994-10-08,True
+133,26,Pologne,1.1111111111111112,1.0,9,0,0.0,Pologne - France,Qualifications pour l'Euro 1996,Pologne,0,0,0,0,1994-11-06,True
+134,83,Azerbaïdjan,6.0,5.0,2,0,0.0,Azerbaïdjan - France,Qualifications pour l'Euro 1996,Azerbaïdjan,2,0,0,0,1994-12-13,True
+135,62,Pays-Bas,1.4,0.8666666666666667,15,5,1.0,Pays-Bas - France,Match amical,Pays-Bas,1,0,0,0,1995-01-10,False
+136,42,Israël,1.6666666666666667,0.6666666666666666,9,0,0.0,Israël - France,Qualifications pour l'Euro 1996,Israël,0,0,0,0,1995-03-29,True
+137,52,Slovaquie,1.5,0.5,4,0,0.0,France- Slovaquie,Qualifications pour l'Euro 1996,Slovaquie,4,0,0,0,1995-04-26,True
+138,81,Norvège,1.375,1.125,8,0,0.0,Norvège - France,Match amical,Norvège,0,0,0,0,1995-07-22,True
+139,26,Pologne,1.1111111111111112,1.0,9,0,0.0,France - Pologne,Qualifications pour l'Euro 1996,Pologne,1,1,0,0,1995-08-16,True
+140,83,Azerbaïdjan,6.0,5.0,2,0,0.0,France - Azerbaïdjan,Qualifications pour l'Euro 1996,Azerbaïdjan,10,10,0,0,1995-09-06,True
+141,14,Roumanie,1.3,0.6,10,0,0.0,Roumanie - France,Qualifications pour l'Euro 1996,Roumanie,3,1,0,0,1995-10-11,True
+142,42,Israël,1.6666666666666667,0.6666666666666666,9,0,0.0,France - Israël,Qualifications pour l'Euro 1996,Israël,2,0,0,0,1995-11-15,True
+143,79,Portugal,2.1,0.7,10,0,0.0,France - Portugal,Match amical,Portugal,3,2,0,0,1996-01-24,True
+144,16,Grèce,2.25,0.75,4,0,0.0,France - Grèce,Match amical,Grèce,3,1,0,0,1996-02-21,True
+145,68,Belgique,1.9230769230769231,1.2307692307692308,13,0,0.0,Belgique - France,Match amical,Belgique,2,0,0,0,1996-03-27,True
+146,10,Finlande,1.8333333333333333,0.16666666666666666,6,0,0.0,France - Finlande,Match amical,Finlande,2,0,0,0,1996-05-29,True
+147,25,Allemagne,1.4,0.6,10,0,0.0,Allemagne - France,Match amical,Allemagne,1,0,0,0,1996-06-01,True
+148,32,Arménie,2.8,0.4,5,0,0.0,France - Arménie,Match amical,Arménie,2,0,0,0,1996-06-05,True
+149,14,Roumanie,1.3,0.6,10,0,0.0,France - Roumanie,Euro 1996 (Groupe B),Roumanie,1,0,0,0,1996-06-10,True
+150,17,Espagne,1.1111111111111112,1.0555555555555556,18,0,0.0,Espagne - France,Euro 1996 (Groupe B),Espagne,1,1,0,0,1996-06-15,True
+151,11,Bulgarie,1.25,1.0,8,0,0.0,France - Bulgarie,Euro 1996 (Groupe B),Bulgarie,3,1,0,0,1996-06-18,True
+152,62,Pays-Bas,1.4,0.8666666666666667,15,5,1.0,France - Pays-Bas,Euro 1996 (Quart de finale),Pays-Bas,0,0,5,4,1996-06-22,True
+153,85,Rép. tchèque,1.0,1.25,4,5,-1.0,Rép. tchèque - France,Euro 1996 (Demi-finale),Rép. tchèque,0,0,5,6,1996-06-26,False
+154,56,Mexique,1.75,0.5,4,0,0.0,France - Mexique,Match amical,Mexique,2,0,0,0,1996-08-31,True
+155,69,Turquie,3.0,0.5,4,0,0.0,France - Turquie,Match amical,Turquie,4,0,0,0,1996-10-09,True
+156,74,Danemark,1.25,0.8333333333333334,12,0,0.0,Danemark - France,Match amical,Danemark,0,1,0,0,1996-11-09,True
+157,79,Portugal,2.1,0.7,10,0,0.0,Portugal - France,Match amical,Portugal,2,0,0,0,1997-01-22,True
+158,62,Pays-Bas,1.4,0.8666666666666667,15,5,1.0,France - Pays-Bas,Match amical,Pays-Bas,2,1,0,0,1997-02-26,True
+159,60,Suède,1.4166666666666667,1.0833333333333333,12,0,0.0,France - Suède,Match amical,Suède,1,0,0,0,1997-04-02,True
+160,39,Brésil,1.0,1.2727272727272727,11,4,1.0,France - Brésil,Tournoi de France 1997 (amical),Brésil,1,1,0,0,1997-06-03,True
+161,5,Angleterre,1.1538461538461537,1.0769230769230769,13,0,0.0,France - Angleterre,Tournoi de France 1997 (amical),Angleterre,0,1,0,0,1997-06-07,True
+162,41,Italie,1.75,0.8333333333333334,12,3,-2.0,France - Italie,Tournoi de France 1997 (amical),Italie,2,2,0,0,1997-06-11,True
+163,67,Afrique du Sud,1.5,0.75,4,0,0.0,France - Afrique du Sud,Match amical,Afrique du Sud,2,1,0,0,1997-10-11,True
+164,30,Écosse,1.8888888888888888,0.5555555555555556,9,0,0.0,France - Écosse,Match amical,Écosse,2,1,0,0,1997-11-12,True
+165,17,Espagne,1.1111111111111112,1.0555555555555556,18,0,0.0,France - Espagne,Match amical (Inauguration du Stade de France),Espagne,1,0,0,0,1998-01-28,True
+166,81,Norvège,1.375,1.125,8,0,0.0,France - Norvège,Match amical,Norvège,3,3,0,0,1998-02-25,True
+167,12,Russie,2.142857142857143,1.4285714285714286,7,0,0.0,Russie - France,Match amical,Russie,0,1,0,0,1998-03-25,True
+168,60,Suède,1.4166666666666667,1.0833333333333333,12,0,0.0,Suède - France,Match amical,Suède,0,0,0,0,1998-04-22,True
+169,68,Belgique,1.9230769230769231,1.2307692307692308,13,0,0.0,France - Belgique,Tournoi Hassan II 1998 (amical),Belgique,1,0,0,0,1998-05-27,True
+170,58,Maroc,2.4,1.2,5,5,-1.0,Maroc - France,Tournoi Hassan II 1998 (amical),Maroc,2,2,5,6,1998-05-29,True
+171,10,Finlande,1.8333333333333333,0.16666666666666666,6,0,0.0,Finlande - France,Match amical,Finlande,1,0,0,0,1998-06-05,True
+172,67,Afrique du Sud,1.5,0.75,4,0,0.0,France - Afrique du Sud,Coupe du monde 1998 (Groupe C),Afrique du Sud,3,0,0,0,1998-06-12,True
+173,76,Arabie saoudite,4.0,0.0,1,0,0.0,France - Arabie saoudite,Coupe du monde 1998 (Groupe C),Arabie saoudite,4,0,0,0,1998-06-18,True
+174,74,Danemark,1.25,0.8333333333333334,12,0,0.0,France - Danemark,Coupe du monde 1998 (Groupe C),Danemark,2,1,0,0,1998-06-24,True
+175,2,Paraguay,1.75,0.25,4,0,0.0,France - Paraguay,Coupe du monde 1998 (Huitième de finale),Paraguay,1,0,0,0,1998-06-28,True
+176,43,France – Italie,0.0,0.0,1,4,1.0,France – Italie,Coupe du monde 1998 (Quart de finale),France – Italie,0,0,4,3,1998-07-03,True
+177,22,Croatie,1.8,0.6,5,0,0.0,France - Croatie,Coupe du monde 1998 (Demi-finale),Croatie,2,1,0,0,1998-07-08,True
+178,39,Brésil,1.0,1.2727272727272727,11,4,1.0,Brésil - France,Coupe du monde 1998 (Finale),Brésil,3,0,0,0,1998-07-12,True
+179,6,Autriche,1.5,0.75,8,0,0.0,Autriche - France,Match amical,Autriche,2,2,0,0,1998-08-19,True
+180,8,Islande,2.375,1.125,8,0,0.0,Islande - France,Qualifications pour l'Euro 2000,Islande,1,1,0,0,1998-09-05,True
+181,12,Russie,2.142857142857143,1.4285714285714286,7,0,0.0,Russie - France,Qualifications pour l'Euro 2000,Russie,3,2,0,0,1998-10-10,True
+182,0,Andorre,2.3333333333333335,0.0,3,0,0.0,France - Andorre,Qualifications pour l'Euro 2000,Andorre,2,0,0,0,1998-10-14,True
+183,58,Maroc,2.4,1.2,5,5,-1.0,France - Maroc,Match amical,Maroc,1,0,0,0,1999-01-20,True
+184,5,Angleterre,1.1538461538461537,1.0769230769230769,13,0,0.0,Angleterre - France,Match amical,Angleterre,2,0,0,0,1999-02-10,True
+185,44,Ukraine,1.5555555555555556,0.5555555555555556,9,0,0.0,France - Ukraine,Qualifications pour l'Euro 2000,Ukraine,0,0,0,0,1999-03-27,True
+186,32,Arménie,2.8,0.4,5,0,0.0,France - Arménie,Qualifications pour l'Euro 2000,Arménie,2,0,0,0,1999-03-31,True
+187,12,Russie,2.142857142857143,1.4285714285714286,7,0,0.0,France - Russie,Qualifications pour l'Euro 2000,Russie,2,3,0,0,1999-06-05,True
+188,0,Andorre,2.3333333333333335,0.0,3,0,0.0,Andorre - France,Qualifications pour l'Euro 2000,Andorre,1,0,0,0,1999-06-09,True
+189,23,Irlande du Nord,1.8,0.2,5,0,0.0,Irlande du Nord - France,Match amical,Irlande du Nord,1,0,0,0,1999-08-18,False
+190,44,Ukraine,1.5555555555555556,0.5555555555555556,9,0,0.0,Ukraine - France,Qualifications pour l'Euro 2000,Ukraine,0,0,0,0,1999-09-04,True
+191,32,Arménie,2.8,0.4,5,0,0.0,Arménie - France,Qualifications pour l'Euro 2000,Arménie,3,2,0,0,1999-09-08,True
+192,8,Islande,2.375,1.125,8,0,0.0,France - Islande,Qualifications pour l'Euro 2000,Islande,3,2,0,0,1999-10-09,True
+193,22,Croatie,1.8,0.6,5,0,0.0,France - Croatie,Match amical,Croatie,3,0,0,0,1999-11-13,True
+194,26,Pologne,1.1111111111111112,1.0,9,0,0.0,France - Pologne,Match amical,Pologne,1,0,0,0,2000-02-23,True
+195,30,Écosse,1.8888888888888888,0.5555555555555556,9,0,0.0,Écosse - France,Match amical,Écosse,2,0,0,0,2000-03-29,True
+196,35,Slovénie,3.3333333333333335,0.6666666666666666,3,0,0.0,France - Slovénie,Match amical,Slovénie,3,2,0,0,2000-04-26,True
+197,22,Croatie,1.8,0.6,5,0,0.0,Croatie - France,Match amical,Croatie,2,0,0,0,2000-05-28,True
+198,50,Japon,2.3333333333333335,0.8333333333333334,6,4,2.0,France - Japon,Tournoi Hassan II 2000 (amical),Japon,2,2,4,2,2000-06-04,True
+199,58,Maroc,2.4,1.2,5,5,-1.0,Maroc - France,Tournoi Hassan II 2000 (amical),Maroc,5,1,0,0,2000-06-06,True
+200,74,Danemark,1.25,0.8333333333333334,12,0,0.0,France - Danemark,Euro 2000 (Groupe D),Danemark,3,0,0,0,2000-06-11,True
+201,85,Rép. tchèque,1.0,1.25,4,5,-1.0,France - Rép. tchèque,Euro 2000 (Groupe D),Rép. tchèque,2,1,0,0,2000-06-16,True
+202,62,Pays-Bas,1.4,0.8666666666666667,15,5,1.0,Pays-Bas - France,Euro 2000 (Groupe D),Pays-Bas,2,3,0,0,2000-06-21,False
+203,17,Espagne,1.1111111111111112,1.0555555555555556,18,0,0.0,France - Espagne,Euro 2000 (Quart de finale),Espagne,2,1,0,0,2000-06-25,True
+204,79,Portugal,2.1,0.7,10,0,0.0,France - Portugal,Euro 2000 (Demi-finale),Portugal,2,1,0,0,2000-06-28,True
+205,41,Italie,1.75,0.8333333333333334,12,3,-2.0,Italie - France,Euro 2000 (Finale),Italie,2,1,0,0,2000-07-02,True
+206,27,Sélection FIFA,5.0,1.0,1,0,0.0,France - Sélection FIFA,Match amical,Sélection FIFA,5,1,0,0,2000-08-16,True
+207,5,Angleterre,1.1538461538461537,1.0769230769230769,13,0,0.0,France - Angleterre,Match amical,Angleterre,1,1,0,0,2000-09-02,True
+208,80,Cameroun,1.6666666666666667,1.0,3,0,0.0,France - Cameroun,Match amical,Cameroun,1,1,0,0,2000-10-04,True
+209,67,Afrique du Sud,1.5,0.75,4,0,0.0,Afrique du Sud - France,Coupe du challenge 2000[2] (amical),Afrique du Sud,0,0,0,0,2000-10-07,False
+210,69,Turquie,3.0,0.5,4,0,0.0,Turquie - France,Match amical,Turquie,4,0,0,0,2000-11-15,True
+211,25,Allemagne,1.4,0.6,10,0,0.0,France - Allemagne,Match amical,Allemagne,1,0,0,0,2001-02-27,True
+212,50,Japon,2.3333333333333335,0.8333333333333334,6,4,2.0,France - Japon,Match amical,Japon,5,0,0,0,2001-03-24,True
+213,17,Espagne,1.1111111111111112,1.0555555555555556,18,0,0.0,Espagne - France,Match amical,Espagne,1,2,0,0,2001-03-28,True
+214,79,Portugal,2.1,0.7,10,0,0.0,France - Portugal,Match amical,Portugal,4,0,0,0,2001-04-25,True
+215,66,Corée du Sud,3.0,1.0,3,0,0.0,Corée du Sud - France,Coupe des confédérations 2001 (Groupe A)[36],Corée du Sud,5,0,0,0,2001-05-30,False
+216,34,Australie- France,0.0,1.0,1,0,0.0,Australie- France,Coupe des confédérations 2001 (Groupe A),Australie- France,0,1,0,0,2001-06-01,False
+217,56,Mexique,1.75,0.5,4,0,0.0,France - Mexique,Coupe des confédérations 2001 (Groupe A),Mexique,4,0,0,0,2001-06-03,True
+218,39,Brésil,1.0,1.2727272727272727,11,4,1.0,France - Brésil,Coupe des confédérations 2001 (Demi-finale),Brésil,2,1,0,0,2001-06-07,True
+219,50,Japon,2.3333333333333335,0.8333333333333334,6,4,2.0,Japon - France,Coupe des confédérations 2001 (Finale),Japon,1,0,0,0,2001-06-10,True
+220,74,Danemark,1.25,0.8333333333333334,12,0,0.0,France - Danemark,Match amical,Danemark,1,0,0,0,2001-08-15,True
+221,46,Chili,1.6666666666666667,1.3333333333333333,3,0,0.0,Chili - France,Match amical,Chili,1,2,0,0,2001-09-01,True
+222,36,Algérie,4.0,1.0,1,0,0.0,France - Algérie,"Match amical[4],[5]",Algérie,4,1,0,0,2001-10-06,True
+223,45,Australie,2.5,0.5,4,0,0.0,Australie - France,Match amical,Australie,1,1,0,0,2001-11-11,True
+224,14,Roumanie,1.3,0.6,10,0,0.0,France - Roumanie,Match amical,Roumanie,2,1,0,0,2002-02-13,True
+225,30,Écosse,1.8888888888888888,0.5555555555555556,9,0,0.0,France - Écosse,Match amical,Écosse,5,0,0,0,2002-03-27,True
+226,12,Russie,2.142857142857143,1.4285714285714286,7,0,0.0,France - Russie,Match amical,Russie,0,0,0,0,2002-04-17,True
+227,68,Belgique,1.9230769230769231,1.2307692307692308,13,0,0.0,France - Belgique,Match amical,Belgique,1,2,0,0,2002-05-18,True
+228,66,Corée du Sud,3.0,1.0,3,0,0.0,Corée du Sud - France,Match amical,Corée du Sud,3,2,0,0,2002-05-26,False
+229,4,Sénégal,0.0,1.0,1,0,0.0,France - Sénégal,Coupe du monde 2002 (Groupe A),Sénégal,0,1,0,0,2002-05-31,True
+230,48,Uruguay,0.3333333333333333,0.16666666666666666,6,0,0.0,France - Uruguay,Coupe du monde 2002 (Groupe A),Uruguay,0,0,0,0,2002-06-06,True
+231,74,Danemark,1.25,0.8333333333333334,12,0,0.0,Danemark - France,Coupe du monde 2002 (Groupe A),Danemark,0,2,0,0,2002-06-11,True
+232,47,Tunisie,1.6666666666666667,1.0,3,0,0.0,Tunisie - France,Match amical,Tunisie,1,1,0,0,2002-08-21,True
+233,19,Chypre,3.375,0.25,8,0,0.0,Chypre - France,Qualifications pour l'Euro 2004,Chypre,2,1,0,0,2002-09-07,True
+234,35,Slovénie,3.3333333333333335,0.6666666666666666,3,0,0.0,France- Slovénie,Qualifications pour l'Euro 2004,Slovénie,5,0,0,0,2002-10-12,True
+235,33,Malte,5.0,0.0,2,0,0.0,Malte - France,Qualifications pour l'Euro 2004,Malte,4,0,0,0,2002-10-16,True
+236,49,RF Yougoslavie,3.0,0.0,1,0,0.0,France - RF Yougoslavie,Match amical,RF Yougoslavie,3,0,0,0,2002-11-20,True
+237,85,Rép. tchèque,1.0,1.25,4,5,-1.0,France - Rép. tchèque,Match amical,Rép. tchèque,0,2,0,0,2003-02-12,True
+238,33,Malte,5.0,0.0,2,0,0.0,France - Malte,Qualifications pour l'Euro 2004,Malte,6,0,0,0,2003-03-29,True
+239,42,Israël,1.6666666666666667,0.6666666666666666,9,0,0.0,Israël - France,Qualifications pour l'Euro 2004,Israël,2,1,0,0,2003-04-02,True
+240,75,Égypte,5.0,0.0,1,0,0.0,France - Égypte,Match amical,Égypte,5,0,0,0,2003-04-30,True
+241,20,Colombie,1.25,1.5,4,0,0.0,France - Colombie,Coupe des confédérations 2003 (Groupe A),Colombie,1,0,0,0,2003-06-18,True
+242,50,Japon,2.3333333333333335,0.8333333333333334,6,4,2.0,France - Japon,Coupe des confédérations 2003 (Groupe A),Japon,2,1,0,0,2003-06-20,True
+243,40,Nouvelle-Zélande,5.0,0.0,1,0,0.0,France - Nouvelle-Zélande,Coupe des confédérations 2003 (Groupe A),Nouvelle-Zélande,5,0,0,0,2003-06-22,True
+244,69,Turquie,3.0,0.5,4,0,0.0,France - Turquie,Coupe des confédérations 2003 (Demi-finale),Turquie,3,2,0,0,2003-06-26,True
+245,80,Cameroun,1.6666666666666667,1.0,3,0,0.0,France - Cameroun,Coupe des confédérations 2003 (Finale),Cameroun,1,0,0,0,2003-06-29,True
+246,24,Suisse,1.4,0.9,10,0,0.0,Suisse - France,Match amical,Suisse,2,0,0,0,2003-08-20,True
+247,19,Chypre,3.375,0.25,8,0,0.0,France - Chypre,Qualifications pour l'Euro 2004,Chypre,5,0,0,0,2003-09-06,True
+248,35,Slovénie,3.3333333333333335,0.6666666666666666,3,0,0.0,Slovénie - France,Qualifications pour l'Euro 2004,Slovénie,2,0,0,0,2003-09-10,True
+249,42,Israël,1.6666666666666667,0.6666666666666666,9,0,0.0,France - Israël,Qualifications pour l'Euro 2004,Israël,3,0,0,0,2003-10-11,True
+250,25,Allemagne,1.4,0.6,10,0,0.0,Allemagne - France,Match amical,Allemagne,3,0,0,0,2003-11-15,True
+251,68,Belgique,1.9230769230769231,1.2307692307692308,13,0,0.0,Belgique - France,Match amical,Belgique,2,0,0,0,2004-02-18,True
+252,62,Pays-Bas,1.4,0.8666666666666667,15,5,1.0,Pays-Bas - France,Match amical,Pays-Bas,0,0,0,0,2004-03-31,False
+253,39,Brésil,1.0,1.2727272727272727,11,4,1.0,France - Brésil,Match amical (Centenaire FIFA),Brésil,0,0,0,0,2004-05-20,True
+254,0,Andorre,2.3333333333333335,0.0,3,0,0.0,France - Andorre,Match amical,Andorre,4,0,0,0,2004-05-28,True
+255,44,Ukraine,1.5555555555555556,0.5555555555555556,9,0,0.0,France - Ukraine,Match amical,Ukraine,1,0,0,0,2004-06-06,True
+256,5,Angleterre,1.1538461538461537,1.0769230769230769,13,0,0.0,France - Angleterre,Euro 2004 (Groupe B),Angleterre,2,1,0,0,2004-06-13,True
+257,22,Croatie,1.8,0.6,5,0,0.0,France - Croatie,Euro 2004 (Groupe B),Croatie,2,2,0,0,2004-06-17,True
+258,24,Suisse,1.4,0.9,10,0,0.0,France - Suisse,Euro 2004 (Groupe B),Suisse,3,1,0,0,2004-06-21,True
+259,16,Grèce,2.25,0.75,4,0,0.0,Grèce - France,Euro 2004 (Quart de finale),Grèce,0,1,0,0,2004-06-25,True
+260,13,Bosnie-Herzégovine,1.5,0.75,4,0,0.0,France - Bosnie-Herzégovine,Match amical,Bosnie-Herzégovine,1,1,0,0,2004-08-18,True
+261,42,Israël,1.6666666666666667,0.6666666666666666,9,0,0.0,France - Israël,Qualifications pour la Coupe du monde 2006,Israël,0,0,0,0,2004-09-04,True
+262,28,Îles Féroé,3.6666666666666665,0.0,6,0,0.0,Îles Féroé - France,Qualifications pour la Coupe du monde 2006,Îles Féroé,2,0,0,0,2004-09-08,False
+263,59,Irlande,1.2222222222222223,0.5555555555555556,9,0,0.0,France - Irlande,Qualifications pour la Coupe du monde 2006,Irlande,0,0,0,0,2004-10-09,True
+264,19,Chypre,3.375,0.25,8,0,0.0,Chypre - France,Qualifications pour la Coupe du monde 2006,Chypre,2,0,0,0,2004-10-13,True
+265,26,Pologne,1.1111111111111112,1.0,9,0,0.0,France - Pologne,Match amical,Pologne,0,0,0,0,2004-11-17,True
+266,60,Suède,1.4166666666666667,1.0833333333333333,12,0,0.0,France - Suède,Match amical,Suède,1,1,0,0,2005-02-09,True
+267,24,Suisse,1.4,0.9,10,0,0.0,France - Suisse,Qualifications pour la Coupe du monde 2006,Suisse,0,0,0,0,2005-03-26,True
+268,42,Israël,1.6666666666666667,0.6666666666666666,9,0,0.0,Israël - France,Qualifications pour la Coupe du monde 2006,Israël,1,1,0,0,2005-03-29,True
+269,7,Hongrie,2.25,0.5,4,0,0.0,France - Hongrie,Match amical,Hongrie,2,1,0,0,2005-05-31,True
+270,1,Côte d'Ivoire,1.5,0.0,2,0,0.0,France - Côte d'Ivoire,Match amical[38],Côte d'Ivoire,3,0,0,0,2005-08-17,True
+271,28,Îles Féroé,3.6666666666666665,0.0,6,0,0.0,France - Îles Féroé,Qualifications pour la Coupe du monde 2006,Îles Féroé,3,0,0,0,2005-09-03,True
+272,59,Irlande,1.2222222222222223,0.5555555555555556,9,0,0.0,Irlande - France,Qualifications pour la Coupe du monde 2006,Irlande,1,0,0,0,2005-09-07,True
+273,24,Suisse,1.4,0.9,10,0,0.0,Suisse - France,Qualifications pour la Coupe du monde 2006,Suisse,1,1,0,0,2005-10-08,True
+274,19,Chypre,3.375,0.25,8,0,0.0,France - Chypre,Qualifications pour la Coupe du monde 2006,Chypre,4,0,0,0,2005-10-12,True
+275,82,Costa Rica,2.5,1.5,2,0,0.0,France - Costa Rica,Match amical,Costa Rica,3,2,0,0,2005-11-09,True
+276,25,Allemagne,1.4,0.6,10,0,0.0,France - Allemagne,Match amical,Allemagne,0,0,0,0,2005-11-12,True
+277,52,Slovaquie,1.5,0.5,4,0,0.0,France - Slovaquie,Match amical,Slovaquie,1,2,0,0,2006-03-01,True
+278,56,Mexique,1.75,0.5,4,0,0.0,France - Mexique,Match amical,Mexique,1,0,0,0,2006-05-27,True
+279,74,Danemark,1.25,0.8333333333333334,12,0,0.0,France - Danemark,Match amical,Danemark,2,0,0,0,2006-05-31,True
+280,64,Chine,1.5,1.0,2,0,0.0,France - Chine,Match amical,Chine,3,1,0,0,2006-06-07,True
+281,24,Suisse,1.4,0.9,10,0,0.0,France - Suisse,Coupe du monde 2006 (Groupe G),Suisse,0,0,0,0,2006-06-13,True
+282,66,Corée du Sud,3.0,1.0,3,0,0.0,France - Corée du Sud,Coupe du monde 2006 (Groupe G),Corée du Sud,1,1,0,0,2006-06-18,True
+283,18,Togo,2.0,0.0,1,0,0.0,Togo - France,Coupe du monde 2006 (Groupe G),Togo,2,0,0,0,2006-06-23,True
+284,17,Espagne,1.1111111111111112,1.0555555555555556,18,0,0.0,Espagne - France,Coupe du monde 2006 (Huitième de finale),Espagne,3,1,0,0,2006-06-27,True
+285,39,Brésil,1.0,1.2727272727272727,11,4,1.0,France - Brésil,Coupe du monde 2006 (Quart de finale),Brésil,1,0,0,0,2006-07-01,True
+286,79,Portugal,2.1,0.7,10,0,0.0,Portugal - France,Coupe du monde 2006 (Demi-finale),Portugal,1,0,0,0,2006-07-05,True
+287,41,Italie,1.75,0.8333333333333334,12,3,-2.0,Italie - France,Coupe du monde 2006 (Finale),Italie,1,1,3,5,2006-07-09,True
+288,13,Bosnie-Herzégovine,1.5,0.75,4,0,0.0,Bosnie-Herzégovine - France,Match amical,Bosnie-Herzégovine,2,1,0,0,2006-08-16,False
+289,77,Géorgie,1.75,0.25,4,0,0.0,Géorgie - France,Qualifications pour l'Euro 2008,Géorgie,3,0,0,0,2006-09-02,True
+290,41,Italie,1.75,0.8333333333333334,12,3,-2.0,France - Italie,Qualifications pour l'Euro 2008,Italie,3,1,0,0,2006-09-06,True
+291,30,Écosse,1.8888888888888888,0.5555555555555556,9,0,0.0,Écosse - France,Qualifications pour l'Euro 2008,Écosse,0,1,0,0,2006-10-07,True
+292,28,Îles Féroé,3.6666666666666665,0.0,6,0,0.0,France - Îles Féroé,Qualifications pour l'Euro 2008,Îles Féroé,5,0,0,0,2006-10-11,True
+293,16,Grèce,2.25,0.75,4,0,0.0,France - Grèce,Match amical,Grèce,1,0,0,0,2006-11-15,True
+294,29,Argentine,0.6666666666666666,1.0,3,0,0.0,France - Argentine,Match amical,Argentine,0,1,0,0,2007-02-07,True
+295,51,Lituanie,1.25,0.0,4,0,0.0,Lituanie - France,Qualifications pour l'Euro 2008,Lituanie,1,0,0,0,2007-03-24,True
+296,6,Autriche,1.5,0.75,8,0,0.0,France - Autriche,Match amical,Autriche,1,0,0,0,2007-03-28,True
+297,44,Ukraine,1.5555555555555556,0.5555555555555556,9,0,0.0,France - Ukraine,Qualifications pour l'Euro 2008,Ukraine,2,0,0,0,2007-06-02,True
+298,77,Géorgie,1.75,0.25,4,0,0.0,France - Géorgie,Qualifications pour l'Euro 2008,Géorgie,1,0,0,0,2007-06-06,True
+299,52,Slovaquie,1.5,0.5,4,0,0.0,Slovaquie - France,Match amical,Slovaquie,1,0,0,0,2007-08-22,True
+300,41,Italie,1.75,0.8333333333333334,12,3,-2.0,Italie - France,Qualifications pour l'Euro 2008,Italie,0,0,0,0,2007-09-08,True
+301,30,Écosse,1.8888888888888888,0.5555555555555556,9,0,0.0,France - Écosse,Qualifications pour l'Euro 2008,Écosse,0,1,0,0,2007-09-12,True
+302,28,Îles Féroé,3.6666666666666665,0.0,6,0,0.0,Îles Féroé - France,Qualifications pour l'Euro 2008,Îles Féroé,6,0,0,0,2007-10-13,False
+303,51,Lituanie,1.25,0.0,4,0,0.0,France - Lituanie,Qualifications pour l'Euro 2008,Lituanie,2,0,0,0,2007-10-17,True
+304,58,Maroc,2.4,1.2,5,5,-1.0,France - Maroc,Match amical,Maroc,2,2,0,0,2007-11-16,True
+305,44,Ukraine,1.5555555555555556,0.5555555555555556,9,0,0.0,Ukraine - France,Qualifications pour l'Euro 2008,Ukraine,2,2,0,0,2007-11-21,True
+306,17,Espagne,1.1111111111111112,1.0555555555555556,18,0,0.0,Espagne - France,Match amical,Espagne,0,1,0,0,2008-02-06,True
+307,5,Angleterre,1.1538461538461537,1.0769230769230769,13,0,0.0,France - Angleterre,Match amical,Angleterre,1,0,0,0,2008-03-26,True
+308,78,Équateur,1.0,0.0,2,0,0.0,France - Équateur,Match amical,Équateur,2,0,0,0,2008-05-27,True
+309,2,Paraguay,1.75,0.25,4,0,0.0,France - Paraguay,Match amical,Paraguay,0,0,0,0,2008-05-31,True
+310,20,Colombie,1.25,1.5,4,0,0.0,France - Colombie,Match amical,Colombie,1,0,0,0,2008-06-03,True
+311,14,Roumanie,1.3,0.6,10,0,0.0,Roumanie - France,Euro 2008 (Groupe C),Roumanie,0,0,0,0,2008-06-09,True
+312,62,Pays-Bas,1.4,0.8666666666666667,15,5,1.0,Pays-Bas - France,Euro 2008 (Groupe C),Pays-Bas,1,4,0,0,2008-06-13,False
+313,41,Italie,1.75,0.8333333333333334,12,3,-2.0,France - Italie,Euro 2008 (Groupe C),Italie,0,2,0,0,2008-06-17,True
+314,60,Suède,1.4166666666666667,1.0833333333333333,12,0,0.0,Suède - France,Match amical,Suède,3,2,0,0,2008-08-20,True
+315,6,Autriche,1.5,0.75,8,0,0.0,Autriche - France,Qualifications pour la Coupe du monde 2010,Autriche,1,3,0,0,2008-09-06,True
+316,63,Serbie,1.6,0.8,5,0,0.0,France - Serbie,Qualifications pour la Coupe du monde 2010,Serbie,2,1,0,0,2008-09-10,True
+317,14,Roumanie,1.3,0.6,10,0,0.0,Roumanie - France,Qualifications pour la Coupe du monde 2010,Roumanie,2,2,0,0,2008-10-11,True
+318,47,Tunisie,1.6666666666666667,1.0,3,0,0.0,France - Tunisie,Match amical,Tunisie,3,1,0,0,2008-10-14,True
+319,48,Uruguay,0.3333333333333333,0.16666666666666666,6,0,0.0,France - Uruguay,Match amical,Uruguay,0,0,0,0,2008-11-19,True
+320,29,Argentine,0.6666666666666666,1.0,3,0,0.0,France - Argentine,Match amical,Argentine,0,2,0,0,2009-02-11,True
+321,51,Lituanie,1.25,0.0,4,0,0.0,Lituanie - France,Qualifications pour la Coupe du monde 2010,Lituanie,1,0,0,0,2009-03-28,True
+322,51,Lituanie,1.25,0.0,4,0,0.0,France - Lituanie,Qualifications pour la Coupe du monde 2010,Lituanie,1,0,0,0,2009-04-01,True
+323,31,Nigeria,1.0,0.5,2,0,0.0,France - Nigeria,Match amical,Nigeria,0,1,0,0,2009-06-02,True
+324,69,Turquie,3.0,0.5,4,0,0.0,France - Turquie,Match amical,Turquie,1,0,0,0,2009-06-05,True
+325,28,Îles Féroé,3.6666666666666665,0.0,6,0,0.0,Îles Féroé - France,Qualifications pour la Coupe du monde 2010,Îles Féroé,1,0,0,0,2009-08-12,False
+326,14,Roumanie,1.3,0.6,10,0,0.0,France - Roumanie,Qualifications pour la Coupe du monde 2010,Roumanie,1,1,0,0,2009-09-05,True
+327,63,Serbie,1.6,0.8,5,0,0.0,Serbie - France,Qualifications pour la Coupe du monde 2010,Serbie,1,1,0,0,2009-09-09,True
+328,28,Îles Féroé,3.6666666666666665,0.0,6,0,0.0,France - Îles Féroé,Qualifications pour la Coupe du monde 2010,Îles Féroé,5,0,0,0,2009-10-10,True
+329,6,Autriche,1.5,0.75,8,0,0.0,France - Autriche,Qualifications pour la Coupe du monde 2010,Autriche,3,1,0,0,2009-10-14,True
+330,59,Irlande,1.2222222222222223,0.5555555555555556,9,0,0.0,Irlande - France,Qualifications pour la Coupe du monde 2010 (Barrage aller),Irlande,1,0,0,0,2009-11-14,True
+331,59,Irlande,1.2222222222222223,0.5555555555555556,9,0,0.0,France - Irlande,Qualifications pour la Coupe du monde 2010 (Barrage retour),Irlande,1,1,0,0,2009-11-18,True
+332,17,Espagne,1.1111111111111112,1.0555555555555556,18,0,0.0,France - Espagne,Match amical,Espagne,0,2,0,0,2010-03-03,True
+333,82,Costa Rica,2.5,1.5,2,0,0.0,France - Costa Rica,Match amical,Costa Rica,2,1,0,0,2010-05-26,True
+334,47,Tunisie,1.6666666666666667,1.0,3,0,0.0,Tunisie - France,Match amical,Tunisie,1,1,0,0,2010-05-30,True
+335,64,Chine,1.5,1.0,2,0,0.0,France - Chine,Match amical,Chine,0,1,0,0,2010-06-04,True
+336,48,Uruguay,0.3333333333333333,0.16666666666666666,6,0,0.0,Uruguay - France,Coupe du monde 2010 (Groupe A),Uruguay,0,0,0,0,2010-06-11,True
+337,56,Mexique,1.75,0.5,4,0,0.0,France - Mexique,Coupe du monde 2010 (Groupe A),Mexique,0,2,0,0,2010-06-17,True
+338,67,Afrique du Sud,1.5,0.75,4,0,0.0,France - Afrique du Sud,Coupe du monde 2010 (Groupe A),Afrique du Sud,1,2,0,0,2010-06-22,True
+339,81,Norvège,1.375,1.125,8,0,0.0,Norvège - France,Match amical,Norvège,1,2,0,0,2010-08-11,True
+340,9,Biélorussie,1.6666666666666667,1.0,6,0,0.0,France - Biélorussie,Qualifications pour l'Euro 2012,Biélorussie,0,1,0,0,2010-09-03,True
+341,13,Bosnie-Herzégovine,1.5,0.75,4,0,0.0,Bosnie-Herzégovine - France,Qualifications pour l'Euro 2012,Bosnie-Herzégovine,2,0,0,0,2010-09-07,False
+342,14,Roumanie,1.3,0.6,10,0,0.0,France - Roumanie,Qualifications pour l'Euro 2012,Roumanie,2,0,0,0,2010-10-09,True
+343,73,Luxembourg,2.8333333333333335,0.16666666666666666,6,0,0.0,France - Luxembourg,Qualifications pour l'Euro 2012,Luxembourg,2,0,0,0,2010-10-12,True
+344,5,Angleterre,1.1538461538461537,1.0769230769230769,13,0,0.0,Angleterre - France,Match amical,Angleterre,2,1,0,0,2010-11-17,True
+345,39,Brésil,1.0,1.2727272727272727,11,4,1.0,France - Brésil,Match amical,Brésil,1,0,0,0,2011-02-09,True
+346,73,Luxembourg,2.8333333333333335,0.16666666666666666,6,0,0.0,Luxembourg - France,Qualifications pour l'Euro 2012,Luxembourg,2,0,0,0,2011-03-25,True
+347,22,Croatie,1.8,0.6,5,0,0.0,France - Croatie,Match amical,Croatie,0,0,0,0,2011-03-29,True
+348,9,Biélorussie,1.6666666666666667,1.0,6,0,0.0,Biélorussie - France,Qualifications pour l'Euro 2012,Biélorussie,1,1,0,0,2011-06-03,True
+349,44,Ukraine,1.5555555555555556,0.5555555555555556,9,0,0.0,Ukraine - France,Match amical,Ukraine,4,1,0,0,2011-06-06,True
+350,26,Pologne,1.1111111111111112,1.0,9,0,0.0,Pologne - France,Match amical,Pologne,1,0,0,0,2011-06-09,True
+351,46,Chili,1.6666666666666667,1.3333333333333333,3,0,0.0,France - Chili,Match amical,Chili,1,1,0,0,2011-08-10,True
+352,21,Albanie,2.0,0.42857142857142855,7,0,0.0,Albanie - France,Qualifications pour l'Euro 2012,Albanie,2,1,0,0,2011-09-02,True
+353,14,Roumanie,1.3,0.6,10,0,0.0,Roumanie - France,Qualifications pour l'Euro 2012,Roumanie,0,0,0,0,2011-09-06,True
+354,21,Albanie,2.0,0.42857142857142855,7,0,0.0,France - Albanie,Qualifications pour l'Euro 2012,Albanie,3,0,0,0,2011-10-07,True
+355,13,Bosnie-Herzégovine,1.5,0.75,4,0,0.0,France - Bosnie-Herzégovine,Qualifications pour l'Euro 2012,Bosnie-Herzégovine,1,1,0,0,2011-10-11,True
+356,70,États-Unis,1.0,0.5,2,0,0.0,France - États-Unis,Match amical,États-Unis,1,0,0,0,2011-11-11,True
+357,68,Belgique,1.9230769230769231,1.2307692307692308,13,0,0.0,France - Belgique,Match amical,Belgique,0,0,0,0,2011-11-15,True
+358,25,Allemagne,1.4,0.6,10,0,0.0,Allemagne - France,Match amical,Allemagne,2,1,0,0,2012-02-29,True
+359,8,Islande,2.375,1.125,8,0,0.0,France - Islande,Match amical,Islande,3,2,0,0,2012-05-27,True
+360,63,Serbie,1.6,0.8,5,0,0.0,France - Serbie,Match amical,Serbie,2,0,0,0,2012-05-31,True
+361,71,Estonie,4.0,0.0,1,0,0.0,France - Estonie,Match amical,Estonie,4,0,0,0,2012-06-05,True
+362,5,Angleterre,1.1538461538461537,1.0769230769230769,13,0,0.0,France - Angleterre,Euro 2012 (Groupe D),Angleterre,1,1,0,0,2012-06-11,True
+363,44,Ukraine,1.5555555555555556,0.5555555555555556,9,0,0.0,Ukraine - France,Euro 2012 (Groupe D),Ukraine,2,0,0,0,2012-06-15,True
+364,60,Suède,1.4166666666666667,1.0833333333333333,12,0,0.0,France - Suède,Euro 2012 (Groupe D),Suède,0,2,0,0,2012-06-19,True
+365,17,Espagne,1.1111111111111112,1.0555555555555556,18,0,0.0,Espagne - France,Euro 2012 (Quart de finale),Espagne,0,2,0,0,2012-06-23,True
+366,48,Uruguay,0.3333333333333333,0.16666666666666666,6,0,0.0,France - Uruguay,Match amical,Uruguay,0,0,0,0,2012-08-15,True
+367,10,Finlande,1.8333333333333333,0.16666666666666666,6,0,0.0,Finlande - France,Qualifications pour la Coupe du monde 2014,Finlande,1,0,0,0,2012-09-07,True
+368,9,Biélorussie,1.6666666666666667,1.0,6,0,0.0,France - Biélorussie,Qualifications pour la Coupe du monde 2014,Biélorussie,3,1,0,0,2012-09-11,True
+369,50,Japon,2.3333333333333335,0.8333333333333334,6,4,2.0,France - Japon,Match amical,Japon,0,1,0,0,2012-10-12,True
+370,17,Espagne,1.1111111111111112,1.0555555555555556,18,0,0.0,Espagne - France,Qualifications pour la Coupe du monde 2014,Espagne,1,1,0,0,2012-10-16,True
+371,41,Italie,1.75,0.8333333333333334,12,3,-2.0,Italie - France,Match amical,Italie,2,1,0,0,2012-11-14,True
+372,25,Allemagne,1.4,0.6,10,0,0.0,France - Allemagne,Match amical,Allemagne,1,2,0,0,2013-02-06,True
+373,77,Géorgie,1.75,0.25,4,0,0.0,France - Géorgie,Qualifications pour la Coupe du monde 2014,Géorgie,3,1,0,0,2013-03-22,True
+374,17,Espagne,1.1111111111111112,1.0555555555555556,18,0,0.0,France - Espagne,Qualifications pour la Coupe du monde 2014,Espagne,0,1,0,0,2013-03-26,True
+375,48,Uruguay,0.3333333333333333,0.16666666666666666,6,0,0.0,Uruguay - France,Match amical,Uruguay,0,1,0,0,2013-06-05,True
+376,39,Brésil,1.0,1.2727272727272727,11,4,1.0,Brésil - France,Match amical,Brésil,0,3,0,0,2013-06-09,True
+377,68,Belgique,1.9230769230769231,1.2307692307692308,13,0,0.0,Belgique - France,Match amical,Belgique,0,0,0,0,2013-08-14,True
+378,77,Géorgie,1.75,0.25,4,0,0.0,Géorgie - France,Qualifications pour la Coupe du monde 2014,Géorgie,0,0,0,0,2013-09-06,True
+379,9,Biélorussie,1.6666666666666667,1.0,6,0,0.0,Biélorussie - France,Qualifications pour la Coupe du monde 2014,Biélorussie,4,2,0,0,2013-09-10,True
+380,45,Australie,2.5,0.5,4,0,0.0,France - Australie,Match amical,Australie,6,0,0,0,2013-10-11,True
+381,10,Finlande,1.8333333333333333,0.16666666666666666,6,0,0.0,France - Finlande,Qualifications pour la Coupe du monde 2014,Finlande,3,0,0,0,2013-10-15,True
+382,44,Ukraine,1.5555555555555556,0.5555555555555556,9,0,0.0,Ukraine - France,Qualifications pour la Coupe du monde 2014 (Barrage aller),Ukraine,0,2,0,0,2013-11-15,True
+383,44,Ukraine,1.5555555555555556,0.5555555555555556,9,0,0.0,France - Ukraine,Qualifications pour la Coupe du monde 2014 (Barrage retour),Ukraine,3,0,0,0,2013-11-19,True
+384,62,Pays-Bas,1.4,0.8666666666666667,15,5,1.0,France - Pays-Bas,Match amical,Pays-Bas,2,0,0,0,2014-03-05,True
+385,81,Norvège,1.375,1.125,8,0,0.0,France - Norvège,Match amical,Norvège,4,0,0,0,2014-05-27,True
+386,2,Paraguay,1.75,0.25,4,0,0.0,France - Paraguay,Match amical,Paraguay,1,1,0,0,2014-06-01,True
+387,86,Jamaïque,8.0,0.0,1,0,0.0,France - Jamaïque,Match amical,Jamaïque,8,0,0,0,2014-06-08,True
+388,55,Honduras,3.0,0.0,1,0,0.0,France - Honduras,Coupe du monde 2014 (Groupe E),Honduras,3,0,0,0,2014-06-15,True
+389,24,Suisse,1.4,0.9,10,0,0.0,Suisse - France,Coupe du monde 2014 (Groupe E),Suisse,5,2,0,0,2014-06-20,True
+390,78,Équateur,1.0,0.0,2,0,0.0,Équateur - France,Coupe du monde 2014 (Groupe E),Équateur,0,0,0,0,2014-06-25,True
+391,31,Nigeria,1.0,0.5,2,0,0.0,France - Nigeria,Coupe du monde 2014 (Huitième de finale),Nigeria,2,0,0,0,2014-06-30,True
+392,25,Allemagne,1.4,0.6,10,0,0.0,France - Allemagne,Coupe du monde 2014 (Quart de finale),Allemagne,0,1,0,0,2014-07-04,True
+393,17,Espagne,1.1111111111111112,1.0555555555555556,18,0,0.0,France - Espagne,Match amical,Espagne,1,0,0,0,2014-09-04,True
+394,63,Serbie,1.6,0.8,5,0,0.0,Serbie - France,Match amical,Serbie,1,1,0,0,2014-09-07,True
+395,79,Portugal,2.1,0.7,10,0,0.0,France - Portugal,Match amical,Portugal,2,1,0,0,2014-10-11,True
+396,32,Arménie,2.8,0.4,5,0,0.0,Arménie - France,Match amical,Arménie,3,0,0,0,2014-10-14,True
+397,21,Albanie,2.0,0.42857142857142855,7,0,0.0,France - Albanie,Match amical,Albanie,1,1,0,0,2014-11-14,True
+398,60,Suède,1.4166666666666667,1.0833333333333333,12,0,0.0,France - Suède,Match amical,Suède,1,0,0,0,2014-11-18,True
+399,39,Brésil,1.0,1.2727272727272727,11,4,1.0,France - Brésil,Match amical,Brésil,1,3,0,0,2015-03-26,True
+400,74,Danemark,1.25,0.8333333333333334,12,0,0.0,France - Danemark,Match amical,Danemark,2,0,0,0,2015-03-29,True
+401,68,Belgique,1.9230769230769231,1.2307692307692308,13,0,0.0,France - Belgique,Match amical,Belgique,3,4,0,0,2015-06-07,True
+402,21,Albanie,2.0,0.42857142857142855,7,0,0.0,Albanie - France,Match amical,Albanie,0,1,0,0,2015-06-13,True
+403,79,Portugal,2.1,0.7,10,0,0.0,Portugal - France,Match amical,Portugal,1,0,0,0,2015-09-04,True
+404,63,Serbie,1.6,0.8,5,0,0.0,France - Serbie,Match amical,Serbie,2,1,0,0,2015-09-07,True
+405,32,Arménie,2.8,0.4,5,0,0.0,France - Arménie,Match amical,Arménie,4,0,0,0,2015-10-08,True
+406,74,Danemark,1.25,0.8333333333333334,12,0,0.0,Danemark - France,Match amical,Danemark,2,1,0,0,2015-10-11,True
+407,25,Allemagne,1.4,0.6,10,0,0.0,France - Allemagne,Match amical,Allemagne,2,0,0,0,2015-11-13,True
+408,5,Angleterre,1.1538461538461537,1.0769230769230769,13,0,0.0,Angleterre - France,Match amical,Angleterre,0,2,0,0,2015-11-17,True
+409,62,Pays-Bas,1.4,0.8666666666666667,15,5,1.0,Pays-Bas - France[76],Match amical,Pays-Bas,3,2,0,0,2016-03-25,False
+410,12,Russie,2.142857142857143,1.4285714285714286,7,0,0.0,France - Russie,Match amical,Russie,4,2,0,0,2016-03-29,True
+411,80,Cameroun,1.6666666666666667,1.0,3,0,0.0,France - Cameroun,Match amical,Cameroun,3,2,0,0,2016-05-30,True
+412,30,Écosse,1.8888888888888888,0.5555555555555556,9,0,0.0,France - Écosse,Match amical,Écosse,3,0,0,0,2016-06-04,True
+413,14,Roumanie,1.3,0.6,10,0,0.0,France - Roumanie,Euro 2016 (Groupe A),Roumanie,2,1,0,0,2016-06-10,True
+414,21,Albanie,2.0,0.42857142857142855,7,0,0.0,France - Albanie,Euro 2016 (Groupe A),Albanie,2,0,0,0,2016-06-15,True
+415,24,Suisse,1.4,0.9,10,0,0.0,Suisse - France,Euro 2016 (Groupe A),Suisse,0,0,0,0,2016-06-19,True
+416,59,Irlande,1.2222222222222223,0.5555555555555556,9,0,0.0,France - Irlande,Euro 2016 (Huitième de finale),Irlande,2,1,0,0,2016-06-26,True
+417,8,Islande,2.375,1.125,8,0,0.0,France - Islande,Euro 2016 (Quart de finale),Islande,5,2,0,0,2016-07-03,True
+418,25,Allemagne,1.4,0.6,10,0,0.0,Allemagne - France,Euro 2016 (Demi-finale),Allemagne,2,0,0,0,2016-07-07,True
+419,79,Portugal,2.1,0.7,10,0,0.0,Portugal - France,Euro 2016 (Finale),Portugal,0,1,0,0,2016-07-10,True
+420,41,Italie,1.75,0.8333333333333334,12,3,-2.0,Italie - France,Match amical,Italie,3,1,0,0,2016-09-01,True
+421,9,Biélorussie,1.6666666666666667,1.0,6,0,0.0,Biélorussie - France,Qualifications pour la Coupe du monde 2018,Biélorussie,0,0,0,0,2016-09-06,True
+422,11,Bulgarie,1.25,1.0,8,0,0.0,France - Bulgarie,Qualifications pour la Coupe du monde 2018,Bulgarie,4,1,0,0,2016-10-07,True
+423,62,Pays-Bas,1.4,0.8666666666666667,15,5,1.0,Pays-Bas - France,Qualifications pour la Coupe du monde 2018,Pays-Bas,1,0,0,0,2016-10-10,False
+424,60,Suède,1.4166666666666667,1.0833333333333333,12,0,0.0,France - Suède,Qualifications pour la Coupe du monde 2018,Suède,2,1,0,0,2016-11-11,True
+425,1,Côte d'Ivoire,1.5,0.0,2,0,0.0,France - Côte d'Ivoire,Match amical[39],Côte d'Ivoire,0,0,0,0,2016-11-15,True
+426,73,Luxembourg,2.8333333333333335,0.16666666666666666,6,0,0.0,Luxembourg - France,Qualifications pour la Coupe du monde 2018,Luxembourg,3,1,0,0,2017-03-25,True
+427,17,Espagne,1.1111111111111112,1.0555555555555556,18,0,0.0,France - Espagne,Match amical,Espagne,0,2,0,0,2017-03-28,True
+428,2,Paraguay,1.75,0.25,4,0,0.0,France - Paraguay,Match amical,Paraguay,5,0,0,0,2017-06-02,True
+429,60,Suède,1.4166666666666667,1.0833333333333333,12,0,0.0,Suède - France,Qualifications pour la Coupe du monde 2018,Suède,1,2,0,0,2017-06-09,True
+430,5,Angleterre,1.1538461538461537,1.0769230769230769,13,0,0.0,France - Angleterre,Match amical,Angleterre,3,2,0,0,2017-06-13,True
+431,62,Pays-Bas,1.4,0.8666666666666667,15,5,1.0,France - Pays-Bas,Qualifications pour la Coupe du monde 2018,Pays-Bas,4,0,0,0,2017-08-31,True
+432,73,Luxembourg,2.8333333333333335,0.16666666666666666,6,0,0.0,France - Luxembourg,Qualifications pour la Coupe du monde 2018,Luxembourg,0,0,0,0,2017-09-03,True
+433,11,Bulgarie,1.25,1.0,8,0,0.0,Bulgarie - France,Qualifications pour la Coupe du monde 2018,Bulgarie,1,0,0,0,2017-10-07,True
+434,9,Biélorussie,1.6666666666666667,1.0,6,0,0.0,France - Biélorussie,Qualifications pour la Coupe du monde 2018,Biélorussie,2,1,0,0,2017-10-10,True
+435,72,Pays de Galles,1.0,0.5,2,0,0.0,France - Pays de Galles,Match amical,Pays de Galles,2,0,0,0,2017-11-10,True
+436,25,Allemagne,1.4,0.6,10,0,0.0,Allemagne - France,Match amical,Allemagne,2,2,0,0,2017-11-14,True
+437,20,Colombie,1.25,1.5,4,0,0.0,France - Colombie,Match amical,Colombie,2,3,0,0,2018-03-23,True
+438,12,Russie,2.142857142857143,1.4285714285714286,7,0,0.0,Russie - France,Match amical,Russie,3,1,0,0,2018-03-27,True
+439,59,Irlande,1.2222222222222223,0.5555555555555556,9,0,0.0,France - Irlande,Match amical,Irlande,2,0,0,0,2018-05-28,True
+440,41,Italie,1.75,0.8333333333333334,12,3,-2.0,France - Italie,Match amical,Italie,3,1,0,0,2018-06-01,True
+441,70,États-Unis,1.0,0.5,2,0,0.0,France - États-Unis,Match amical,États-Unis,1,1,0,0,2018-06-09,True
+442,45,Australie,2.5,0.5,4,0,0.0,France - Australie,Coupe du monde 2018 (Groupe C),Australie,2,1,0,0,2018-06-16,True
+443,61,Pérou,0.5,0.5,2,0,0.0,France - Pérou,Coupe du monde 2018 (Groupe C),Pérou,1,0,0,0,2018-06-21,True
+444,74,Danemark,1.25,0.8333333333333334,12,0,0.0,Danemark - France,Coupe du monde 2018 (Groupe C),Danemark,0,0,0,0,2018-06-26,True
